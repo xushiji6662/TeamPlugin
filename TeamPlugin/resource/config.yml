@@ -3,7 +3,7 @@ config:
     overRideSpawnCommand: true
     growhealth: true
     leastexp: 24
-    size: 4
+    size: 20
     growperlevel: 2
     effectnear: 16
     skillcooldown: 90
